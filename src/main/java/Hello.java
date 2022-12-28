@@ -1,6 +1,6 @@
 public class Hello {
     public static int getHello() {
-        return 0;
+        return 10;
     }
 }
 
